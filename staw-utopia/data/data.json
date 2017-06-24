@@ -3966,7 +3966,7 @@
 			"set" : ["gavroche"],
 			"name" : "Gavroche",
 			"class" : "Maquis Raider",
-			"classId" : "maquis_raider",
+			"classId" : "maquis_raider_gavroche",
 			"actions" : ["evade", "target-lock", "scan", "battlestations"],
 			"upgrades" : ["weapon", "crew", "crew"],
 			"attack" : 2,
@@ -3988,7 +3988,7 @@
 			"set" : ["gavroche"],
 			"name" : "Maquis Starship",
 			"class" : "Maquis Raider",
-			"classId" : "maquis_raider",
+			"classId" : "maquis_raider_gavroche",
 			"actions" : ["evade", "target-lock", "scan", "battlestations"],
 			"upgrades" : ["weapon", "crew"],
 			"attack" : 2,
@@ -4703,7 +4703,7 @@
 			"set" : ["71528"],
 			"name" : "Val Jean",
 			"class" : "Maquis Raider",
-			"classId" : "maquis_raider_b",
+			"classId" : "maquis_raider_71528",
 			"actions" : ["evade", "target-lock", "scan", "battlestations"],
 			"upgrades" : ["weapon", "weapon", "crew", "crew"],
 			"attack" : 2,
@@ -4725,7 +4725,7 @@
 			"set" : ["71528"],
 			"name" : "Maquis Starship",
 			"class" : "Maquis Raider",
-			"classId" : "maquis_raider_b",
+			"classId" : "maquis_raider_71528",
 			"actions" : ["evade", "target-lock", "scan", "battlestations"],
 			"upgrades" : ["weapon", "weapon", "crew"],
 			"attack" : 2,
@@ -7962,7 +7962,7 @@
 			}
 		}, {
 			"type" : "ship-class",
-			"id" : "maquis_raider",
+			"id" : "maquis_raider_gavroche",
 			"name" : "Maquis Raider",
 			"frontArc" : "90",
 			"rearArc" : "",
@@ -8391,7 +8391,7 @@
 			}
 		}, {
 			"type" : "ship-class",
-			"id" : "maquis_raider_b",
+			"id" : "maquis_raider_71528",
 			"name" : "Maquis Raider",
 			"frontArc" : "90",
 			"rearArc" : "90",
